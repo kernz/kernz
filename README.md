@@ -4,7 +4,7 @@ I'm a Professional Fullstack Developer with a solid background in building scall
 
 Currently I'm trying to dive in Blockchain and Low-level programming.
 
-My focus 🎯:
+## 🎯 My focus
 - Web3 & Blockchain
 - Low-level
 - Bridging the gap
