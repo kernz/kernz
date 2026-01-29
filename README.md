@@ -1,6 +1,7 @@
 # Hi, I'm Nazar 👋
 
 I'm a Professional Fullstack Developer with a solid background in building scallable applications.
+
 Currently I'm trying to dive in Blockchain and Low-level programming.
 
 Current focus:
