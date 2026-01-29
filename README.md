@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nazar 👋
 
-<!--
-**kernz/kernz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Professional Fullstack Developer with a solid background in building scallable applications.
+Currently I'm trying to dive in Blockchain and Low-level programming.
 
-Here are some ideas to get you started:
+Current focus:
+- Web3 & Blockchain
+- Low-level
+- Bridging the gap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,bun,python,rust,zig,tailwind,svelte,postgres,docker,figma)](https://skillicons.dev)
